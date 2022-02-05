@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3  http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv32.xsd" version="3.2" folio="1" fecha="2015-05-21T22:41:26" sello="jbO0sp32WdxLaMJagGycJf4zRlYjxPHtyk1v6Pa9haya0IqroEATzVuUPTF3nNupktPxBXQ4poEYxAlz6A1hXc1mnsea58+TUM1MKz3JDTgyTqRNSGfzE67Bk4IGwrWQzmyoMQ5s4gTxzuCds2I/3qsiZaLyKQdVqXq4mdPKHfQ=" formaDePago="PAGO EN UNA SOLA EXHIBICION" noCertificado="00001000000300623227" certificado="MIIEczCCA1ugAwIBAgIUMDAwMDEwMDAwMDAzMDA2MjMyMjcwDQYJKoZIhvcNAQEFBQAwggGKMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJhY2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3RyYWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBTZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMR8wHQYJKoZIhvcNAQkBFhBhY29kc0BzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMRkwFwYDVQQIDBBEaXN0cml0byBGZWRlcmFsMRQwEgYDVQQHDAtDdWF1aHTDqW1vYzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMTUwMwYJKoZIhvcNAQkCDCZSZXNwb25zYWJsZTogQ2xhdWRpYSBDb3ZhcnJ1YmlhcyBPY2hvYTAeFw0xMzA4MDYxNzE2MTJaFw0xNzA4MDYxNzE2MTJaMIG/MScwJQYDVQQDEx5MVUlTIERFIEpFU1VTIExBUkVETyBWRUxBWlFVRVoxJzAlBgNVBCkTHkxVSVMgREUgSkVTVVMgTEFSRURPIFZFTEFaUVVFWjEnMCUGA1UEChMeTFVJUyBERSBKRVNVUyBMQVJFRE8gVkVMQVpRVUVaMRYwFAYDVQQtEw1MQVZMODcwNzA3MUcwMRswGQYDVQQFExJMQVZMODcwNzA3SE1DUkxTMDkxDTALBgNVBAsTBExVSVMwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALObc7r96FlPJP6uc8nd1Rl5eN3UUhfc06g8L7ezV3QSKYYNLpI2asZoqBzGK32yO1+eG+OPVhGSCM6F/zjmWkk+Fcl7xmGE66MbyYMRm47BDf10BSldz4BRqxrTC8epSmf3BOB8VNUWedt93IWHu52aprdD8eqqpt8uznVYBo7tAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBBQUAA4IBAQBYc3b+Sdt6IC/vE5rYTKJs0GnfkrhlGHIfGF9dBeaZvT7Ii0igX+uTO30hP1tCIoBtN+X3FS4x0ZSBZ6754OiTjxbpnuISftA8OXucHFhFM9iO118cAbbGkaRw0DWWbCkGfR9Wo58yDWuUjXXddCB5TUOxBm4a0D9Z5sd5dxHm9CBJv1TBCzHdY8uzKnapAof+hJUFJ1J0/FpSXpwkRc08invsAzmPla1OO18/403wym8r/UMiawKgTNfBCpUKQ8lNPDGu/3UEyBw9sy1gbbH/0S4hbaKa5jVPaN/7UKtt2dVsA/Ws9uYuCuR6bfm9WqVurj7u6N4gOLZH766byp8L" subTotal="400.00" descuento="0.00" Moneda="MXN" total="464.00" tipoDeComprobante="ingreso" metodoDePago="EFECTIVO" LugarExpedicion="TOLUCA">
+  <cfdi:Emisor rfc="LAVL8707071G0" nombre="LUIS DE JESÚS LAREDO VELÁZQUEZ">
+    <cfdi:DomicilioFiscal calle="PRIMERA CERRADA CEBORUCO" noExterior="11" noInterior="0" colonia="AZTECA" localidad="TOLUCA" municipio="TOLUCA" estado="ESTADO DE MÉXICO" pais="MÉXICO" codigoPostal="50180"/>
+    <cfdi:ExpedidoEn calle="PRIMERA CERRADA CEBORUCO" noExterior="11" noInterior="0" colonia="AZTECA" localidad="TOLUCA" municipio="TOLUCA" estado="ESTADO DE MÉXICO" pais="MÉXICO" codigoPostal="50180"/>
+    <cfdi:RegimenFiscal Regimen="RÉGIMEN DE INCORPORACIÓN FISCAL"/>
+  </cfdi:Emisor>
+  <cfdi:Receptor rfc="XAXX010101000" nombre="PÚBLICO EN GENERAL">
+    <cfdi:Domicilio calle="-" noExterior="-" colonia="-" estado="-" pais="-" codigoPostal="-"/>
+  </cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto cantidad="1" unidad="PZA" descripcion="DESARROLLO DE MÓDULO DE FACTURACIÓN" valorUnitario="400.00" noIdentificacion="SE04" importe="400.00"/>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos totalImpuestosTrasladados="64.00">
+    <cfdi:Traslados>
+      <cfdi:Traslado impuesto="IVA" tasa="16.00" importe="64.00"/>
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+</cfdi:Comprobante>
